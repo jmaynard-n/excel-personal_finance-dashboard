@@ -14,3 +14,14 @@ Excel dashboard for personal budget management
 - Визулизация данных и настройка диаграмм
 
 ## Превью
+### Дашборд
+![alt text](https://github.com/jmaynard-n/excel-personal_finance-dashboard/blob/main/previews/dashboard%20preview.png?raw=true)
+
+### Данные
+![alt text](https://github.com/jmaynard-n/excel-personal_finance-dashboard/blob/main/previews/data.png?raw=true)
+
+### Валидация данных
+![alt text](https://github.com/jmaynard-n/excel-personal_finance-dashboard/blob/main/previews/data_validation.png?raw=true)
+
+### Пример создания диаграммы
+![alt text](https://github.com/jmaynard-n/excel-personal_finance-dashboard/blob/main/previews/treemap_preview.png?raw=true)
